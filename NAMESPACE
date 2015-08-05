@@ -1,0 +1,6 @@
+exportPattern("^[^\\.]")
+useDynLib(PCA4TS) 
+importFrom("tseries","garch")
+importFrom("stats","acf","ar","cov","var","pnorm")
+ 
+

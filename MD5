@@ -1,0 +1,16 @@
+1196857416e081c13925ece1fa0c86f0 *DESCRIPTION
+e196e74138f6aebc0121960a6e64e2a9 *NAMESPACE
+7215ee9c7d9dc229d2921a40e899ec5f *R/firstlib.R
+13931013884153012cf7f618587c7429 *R/permutationFDR.R
+aa5228a5a65fff78b643ef74bb4497df *R/permutationMax.R
+fcdbb273268c8e4ebb58d6af470fd6e0 *R/segmentTS.R
+c1fc1bf4f32a6e96d7ae1f618685cfa2 *R/segmentVOL.R
+b44f5c3bbff36139f2f9077cb63efd9c *data/returns.rda
+c65f244c63784e3fd8624ca4eeb1e37c *man/permutationFDR.Rd
+69c4afd2bd02a309e948bf8585dac128 *man/permutationMax.Rd
+1734f8ffe6083ecaa8b1f4bbf8e9ed96 *man/returns.Rd
+37a650b8079152c1dbf0eb122ebffeeb *man/segmentTS.Rd
+429650305066d50336b682ac4ce84db8 *man/segmentVOL.Rd
+07d0a1a40b812034aca72dccc9634313 *src/segment.f95
+b2b788901186eb06bf5d56b39cdb0060 *src/thresh.f95
+36b8f47144b8b9ae39bab5540812fabb *src/volsegment.f95
